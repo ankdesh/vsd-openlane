@@ -15,3 +15,7 @@
 ![Screenshot_20240527_120331_Chrome](https://github.com/ankdesh/vsd-openlane/assets/15871819/662ccd75-fb2d-4faa-bac2-0d101e699c01)
 ![Screenshot_20240527_121344_Chrome](https://github.com/ankdesh/vsd-openlane/assets/15871819/bee943c5-cf5a-45af-81a3-f3e8e96fcf64)
 ![Screenshot_20240527_121851_Chrome](https://github.com/ankdesh/vsd-openlane/assets/15871819/f0df7eca-68af-4301-8bb9-f8fedba85cfc)
+
+## Day 2 Asssignment
+Finding the (width * height), area of the cell
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/e5ea4498-dacc-4276-92e2-34ea0336d48e)
