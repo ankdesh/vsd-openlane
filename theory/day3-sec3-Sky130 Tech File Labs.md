@@ -32,7 +32,13 @@ http://opencircuitdesign.com/magic/
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/e9b77eb8-4d5f-4c20-bd9c-1f488edc4b24)
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/cc7f9216-bc6b-46cf-bab0-9b28eb251489)
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/68825042-a869-4e8b-996d-c5d63f538801)
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/1df9d544-0c50-44c3-9d7f-83e22d50b8fe)
 
+## Lab exercise to implement poly resistor spacing to diff and tap
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/cb3056c3-c2c9-4d61-aa72-ee591ec1e517)
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/553030e9-ef78-453f-9d5b-a0dedea70c5e)
+Run DRC check to reflect the changes
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/56fc9241-8c24-4538-993a-e54a2247b7d8)
 
 
 
