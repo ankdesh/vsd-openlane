@@ -13,6 +13,11 @@ Important points
 * ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/319d8b2d-2844-4294-8458-968005ca6b2d)
 * ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/7ae33aa5-2c26-4380-a56f-4f3d731cfcec)
 
-## Introduction to timing libs and steps to include new cell in synthesis
+## Delay table usage
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/d2fb92b8-35c4-454e-af8f-339322782927)
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/df98d69d-3fd8-4b9e-9650-20957d4b1195)
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/5740d19c-9570-4dcf-b3b9-3ecb6b2a630c)
+
+
 
 
