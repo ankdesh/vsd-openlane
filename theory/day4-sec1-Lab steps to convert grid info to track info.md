@@ -26,8 +26,25 @@ Important points for creating LEF
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/0f023da9-66ee-4672-8acd-807a1a385041)
 
 ### Include the LEF file in the design
-* Copy LEF file to the design folder
-![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/e6718154-fde3-480c-ba7e-073d7cd6c5bc)
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/368276b2-4d0b-4e1b-bbaa-74c2b81f11c0)
+
+* Copy LEF file and lib files to the design folder for ease of use 
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/496ec421-8737-4411-8c74-b0d785631860)
+
+* Update config.tcl file in designs/picorv32a/
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/ea116316-a6d8-442c-b7c7-8a255780d10c)
+Error encountered and updated config.tcl  
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/810a17f9-e0b5-4e85-a1a7-eae6816e4d60)
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/a1efd17c-e693-41e5-a58f-b3566ed90f17)
+
+* Running the flow 
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/c8b36667-b89c-4892-9e5a-e7a9dbfcbc37)
+Add lefs during the flow as described at https://github.com/ankdesh/vsdstdcelldesign#plugging-custom-lef-to-openlane-flow
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/fe7d3cbb-850c-44a5-a91f-0bab0a3e0f8c)
+Executing run_synthesis
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/99c781ab-438b-4e93-b887-e6545dfb5d39)
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/e3e59e1e-66cf-46ea-b929-3a21fd6d8d6f)
+
 
 
 ## Delay table usage
