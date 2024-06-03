@@ -10,4 +10,9 @@
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/4738c71a-ee3c-4a40-a02f-e915b0c233d7)
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/197eb435-8fbe-408d-a4b4-604a9911d148)
 
+## Lab steps to configure OpenSTA for post-synth timing analysis
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/acfefc28-72f6-4b60-844a-7185f72f1ac7)
+Copy the file my_base.stc
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/157c1dfa-08a4-4a3f-9b49-d9c6e4221971)
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/189ef4a6-4ce6-484c-b01c-016adbc0f7e3)
 
