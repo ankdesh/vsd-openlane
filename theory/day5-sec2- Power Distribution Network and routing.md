@@ -16,3 +16,5 @@
 * Routing done (with high slack values though)
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/33efab23-d8c2-499b-8eaf-645211f8432c)
  
+* Final placed and routed design
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/4098d140-7c4b-40b7-be17-e050178461bf)
