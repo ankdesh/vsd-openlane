@@ -39,13 +39,13 @@ Error encountered and updated config.tcl
 
 * Running the flow 
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/c8b36667-b89c-4892-9e5a-e7a9dbfcbc37)
-Add lefs during the flow as described at https://github.com/ankdesh/vsdstdcelldesign#plugging-custom-lef-to-openlane-flow
+** Add lefs during the flow as described at https://github.com/ankdesh/vsdstdcelldesign#plugging-custom-lef-to-openlane-flow
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/fe7d3cbb-850c-44a5-a91f-0bab0a3e0f8c)
-Executing run_synthesis
+** Executing run_synthesis
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/99c781ab-438b-4e93-b887-e6545dfb5d39)
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/e3e59e1e-66cf-46ea-b929-3a21fd6d8d6f)
-
-
+** Executing floorplan and placement
+![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/5b370dfc-fbeb-4268-9b22-25ed63ffb19b)
 
 ## Delay table usage
 ![image](https://github.com/ankdesh/vsd-openlane/assets/15871819/d2fb92b8-35c4-454e-af8f-339322782927)
